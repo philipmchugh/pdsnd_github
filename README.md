@@ -14,3 +14,4 @@ Include the files used
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 I want to give Udacity credit.
 
+This time, I am giving credit to Jordan who did a great job!
