@@ -1,17 +1,15 @@
 ### Date created
-I completed this project on July 24, 2020
+July 17, 2020
 
 ### Project Title
-This is a new Project
+US Bike Share Project
 
 ### Description
-Describe what your project is about and what it does
+This project takes bikeshare data from three US cities (Chicago, Washington DC, and New York City). It allows users to select which city they would like to investigate. Additionally, it allows user to choose a specifc month and day. Given the user inputs, it returns to the user basic descriptive statistics for the city (number of rides, average duration, most popular destination, etc.) 
 
 ### Files used
-Include the files used
+Uses chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-I want to give Udacity credit.
-
-This time, I am giving credit to Jordan who did a great job!
+I want to credit GitHub, Udacity, and my friends in the UDACITY Help Group for their support. 
