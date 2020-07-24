@@ -18,7 +18,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
-    adding Cincinnati as a possible city
+    
     # get user input for month (all, january, february, ... , june)
 
 
@@ -26,6 +26,7 @@ def get_filters():
 
 
     print('-'*40)
+    adding Cincinnati as a possible city
     return city, month, day
 
 
