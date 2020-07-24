@@ -11,5 +11,4 @@ This project takes bikeshare data from three US cities (Chicago, Washington DC, 
 Uses chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 I want to credit GitHub, Udacity, and my friends in the UDACITY Help Group for their support. 
